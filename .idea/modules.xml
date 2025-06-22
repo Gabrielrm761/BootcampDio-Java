@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hellow.iml" filepath="$PROJECT_DIR$/Hellow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootcampDio-Java.iml" filepath="$PROJECT_DIR$/BootcampDio-Java.iml" />
     </modules>
   </component>
 </project>
