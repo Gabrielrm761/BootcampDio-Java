@@ -2,7 +2,7 @@ package exercicio3.petshop;
 
 import java.util.Scanner;
 
-public class PetMenu {
+public class PetSystem {
 
     private final static Scanner scanner = new Scanner(System.in);
 
